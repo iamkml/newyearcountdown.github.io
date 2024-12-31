@@ -1,4 +1,4 @@
-let endDate = "31 Dec 2024 09:00:00 PM";
+let endDate = "01 Jan 2025 00:00:00 AM";
 let audio1 = new Audio('mp3/Crowd Cheering Happy New Year Sound Effect.mp3');
 let audio2 = new Audio('mp3/Firework Sound Effect _ No Copyright Sound.mp3');
 // let endDate = "27 December 2022 08:06:00 PM";
